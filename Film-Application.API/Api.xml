@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Film-Application.API</name>
+    </assembly>
+    <members>
+        <member name="M:Film_Application.API.Controllers.MovieController.#ctor(Film_Application.Core.Services.IFilmService)">
+            <summary>
+            Constructor of controller
+            </summary>
+            <param name="iFilmService"></param>
+        </member>
+        <member name="M:Film_Application.API.Controllers.MovieController.GetPictures">
+            <summary>
+            Get all pictures from data source
+            </summary>
+            <returns>Return Pictures</returns>
+        </member>
+    </members>
+</doc>
